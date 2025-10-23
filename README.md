@@ -2,4 +2,4 @@
 
 Here is a link to play below:
 
-https://MorenaMofokeng.github.io/tic-tac-toe/
+https://ofentsej.github.io/tic-tac-toe/
